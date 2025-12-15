@@ -1,0 +1,6 @@
+Fix the bug in the main function and commit the change.,router,2025-12-14T15:12:06.240202
+Migrate user data to the new schema,router,2025-12-14T15:12:06.243753
+Prepare a demo environment for the customer,router,2025-12-14T15:12:06.245264
+Check deployment logs for the demo environment,router,2025-12-14T15:12:06.245799
+Retrieve database credentials,router,2025-12-14T15:12:06.245911
+Approve deployment to production,router,2025-12-14T15:12:06.246033

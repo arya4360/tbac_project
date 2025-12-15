@@ -1,0 +1,44 @@
+{
+  "83d263b4-57f8-4519-8d4d-22bd3348c100": {
+    "status": "approved",
+    "requested_by": "eng01",
+    "toolcall": {
+      "tool": "Deployment",
+      "action": "deploy",
+      "params": {
+        "env": "staging"
+      }
+    },
+    "requested_at": "2025-12-15T06:17:49.250303",
+    "approved_by": "mgr01",
+    "approved_at": "2025-12-15T06:17:49.250799"
+  },
+  "ba9b6a7c-5d05-4a9b-9ea4-fe106f4c816f": {
+    "status": "approved",
+    "requested_by": "it01",
+    "toolcall": {
+      "tool": "Deployment",
+      "action": "deploy",
+      "params": {
+        "env": "staging"
+      }
+    },
+    "requested_at": "2025-12-15T06:17:55.004599",
+    "approved_by": "mgr01",
+    "approved_at": "2025-12-15T06:17:55.005196"
+  },
+  "c9545687-0e70-4406-9312-062f99494421": {
+    "status": "approved",
+    "requested_by": "eng01",
+    "toolcall": {
+      "tool": "Deployment",
+      "action": "deploy",
+      "params": {
+        "env": "staging"
+      }
+    },
+    "requested_at": "2025-12-15T06:17:55.011133",
+    "approved_by": "mgr01",
+    "approved_at": "2025-12-15T06:17:55.011718"
+  }
+}

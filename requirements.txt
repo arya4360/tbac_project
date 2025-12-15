@@ -1,0 +1,18 @@
+# Core framework
+Django>=4.2
+djangorestframework
+
+# Embeddings / semantic routing
+sentence-transformers
+numpy
+
+# Local vector DB (choose one):
+# - faiss-cpu is fast and recommended for x86/linux. On macOS M1/M2 it may be difficult to install; use hnswlib as an alternative.
+faiss-cpu
+hnswlib
+
+# Optional tooling / agents
+langchain
+pytest
+# Utilities
+python-dotenv

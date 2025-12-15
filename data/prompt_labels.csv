@@ -1,0 +1,32 @@
+prompt,task
+"Push a new README file to the main branch.",Feature_Development
+"Fix a bug in the payment processor and commit the change.",Feature_Development
+"Create a new API endpoint to return user profiles.",Feature_Development
+"Add unit tests for the auth module.",Feature_Development
+"Commit change to the user service repo.",Feature_Development
+"Investigate why the service crashed after deploy.",Production_Support
+"Check deployment logs for the last service incident.",Production_Support
+"Troubleshoot system logs to find the error.",Incident_Resolution
+"Restart the failing service and collect logs.",Production_Support
+"Collect stack traces from the worker that failed.",Production_Support
+"Run maintenance scripts on the server.",Infrastructure_Maintenance
+"Perform an infrastructure upgrade on staging.",Infrastructure_Maintenance
+"Apply security patches to servers.",Infrastructure_Maintenance
+"Migrate user data to the new schema.",Infrastructure_Maintenance
+"Prepare a proposal document for customer.",Proposal_Development
+"Assemble sales collateral and slides for the RFP.",Proposal_Development
+"Generate a list of leads for the EMEA region.",Lead_Generation
+"Find potential customers for product X.",Lead_Generation
+"Create pricing proposal for enterprise customer.",Proposal_Development
+"Draft email template for outreach to leads.",Lead_Generation
+"Check the deployment logs for the last service incident.",Production_Support
+"Investigate incident logs for the outage.",Incident_Resolution
+"Push updated documentation to the docs repo.",Feature_Development
+"Prepare demo environment for the customer.",Infrastructure_Maintenance
+"Run database migration to apply schema changes.",Infrastructure_Maintenance
+"Retrieve database credentials.",Proposal_Development
+"Generate quarterly sales leads report.",Lead_Generation
+"Fix the login bug and push to main.",Feature_Development
+"Investigate error causing 500 responses.",Production_Support
+"Create a new feature branch and implement the endpoint.",Feature_Development
+"Draft a proposal and save to Sales folder.",Proposal_Development

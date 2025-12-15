@@ -1,0 +1,198 @@
+[
+  {
+    "task": "Feature_Development",
+    "text": "Push a new README file to the main branch."
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Fix a bug in the payment processor and commit the change."
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Create a new API endpoint to return user profiles."
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Add unit tests for the auth module."
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Commit change to the user service repo."
+  },
+  {
+    "task": "Production_Support",
+    "text": "Investigate why the service crashed after deploy."
+  },
+  {
+    "task": "Production_Support",
+    "text": "Check deployment logs for the last service incident."
+  },
+  {
+    "task": "Incident_Resolution",
+    "text": "Troubleshoot system logs to find the error."
+  },
+  {
+    "task": "Production_Support",
+    "text": "Restart the failing service and collect logs."
+  },
+  {
+    "task": "Production_Support",
+    "text": "Collect stack traces from the worker that failed."
+  },
+  {
+    "task": "Infrastructure_Maintenance",
+    "text": "Run maintenance scripts on the server."
+  },
+  {
+    "task": "Infrastructure_Maintenance",
+    "text": "Perform an infrastructure upgrade on staging."
+  },
+  {
+    "task": "Infrastructure_Maintenance",
+    "text": "Apply security patches to servers."
+  },
+  {
+    "task": "Infrastructure_Maintenance",
+    "text": "Migrate user data to the new schema."
+  },
+  {
+    "task": "Proposal_Development",
+    "text": "Prepare a proposal document for customer."
+  },
+  {
+    "task": "Proposal_Development",
+    "text": "Assemble sales collateral and slides for the RFP."
+  },
+  {
+    "task": "Lead_Generation",
+    "text": "Generate a list of leads for the EMEA region."
+  },
+  {
+    "task": "Lead_Generation",
+    "text": "Find potential customers for product X."
+  },
+  {
+    "task": "Proposal_Development",
+    "text": "Create pricing proposal for enterprise customer."
+  },
+  {
+    "task": "Lead_Generation",
+    "text": "Draft email template for outreach to leads."
+  },
+  {
+    "task": "Production_Support",
+    "text": "Check the deployment logs for the last service incident."
+  },
+  {
+    "task": "Incident_Resolution",
+    "text": "Investigate incident logs for the outage."
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Push updated documentation to the docs repo."
+  },
+  {
+    "task": "Infrastructure_Maintenance",
+    "text": "Prepare demo environment for the customer."
+  },
+  {
+    "task": "Infrastructure_Maintenance",
+    "text": "Run database migration to apply schema changes."
+  },
+  {
+    "task": "Proposal_Development",
+    "text": "Retrieve database credentials."
+  },
+  {
+    "task": "Lead_Generation",
+    "text": "Generate quarterly sales leads report."
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Fix the login bug and push to main."
+  },
+  {
+    "task": "Production_Support",
+    "text": "Investigate error causing 500 responses."
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Create a new feature branch and implement the endpoint."
+  },
+  {
+    "task": "Proposal_Development",
+    "text": "Draft a proposal and save to Sales folder."
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Write new component"
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Fix bug"
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Commit change"
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Push a new README file to the main branch."
+  },
+  {
+    "task": "Feature_Development",
+    "text": "Create a new API endpoint and commit the implementation"
+  },
+  {
+    "task": "Production_Support",
+    "text": "Investigate why the service crashed"
+  },
+  {
+    "task": "Production_Support",
+    "text": "Check deployment logs for the last service incident"
+  },
+  {
+    "task": "Production_Support",
+    "text": "Investigate incident logs"
+  },
+  {
+    "task": "Production_Support",
+    "text": "Restart the failing service and collect logs"
+  },
+  {
+    "task": "Incident_Resolution",
+    "text": "Troubleshoot system logs"
+  },
+  {
+    "task": "Incident_Resolution",
+    "text": "Investigate incident logs"
+  },
+  {
+    "task": "Infrastructure_Maintenance",
+    "text": "Run maintenance scripts on the server"
+  },
+  {
+    "task": "Infrastructure_Maintenance",
+    "text": "Perform infrastructure upgrade"
+  },
+  {
+    "task": "Infrastructure_Maintenance",
+    "text": "Apply security patches to servers"
+  },
+  {
+    "task": "Lead_Generation",
+    "text": "Generate a list of leads for the EMEA region"
+  },
+  {
+    "task": "Lead_Generation",
+    "text": "Find potential customers for product X"
+  },
+  {
+    "task": "Proposal_Development",
+    "text": "Prepare a proposal document for customer"
+  },
+  {
+    "task": "Proposal_Development",
+    "text": "Assemble sales collateral and slides for the RFP"
+  }
+]
